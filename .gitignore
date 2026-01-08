@@ -1,0 +1,21 @@
+#GPT-created backend-agnostic gitignore
+
+# OS
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# Build outputs
+dist/
+build/
+out/
+
+# Editors
+.vscode/
+.idea/
